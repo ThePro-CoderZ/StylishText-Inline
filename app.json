@@ -14,19 +14,6 @@
     "BOT_TOKEN": {
       "description": "Bot Token",
       "value": ""
-    },
-    "API_ID": {
-      "description": "Get this value from https://my.telegram.org",
-      "value": ""
-    },
-    "OWNER_ID": {
-      "description": "give your telegram user id here",
-      "value": ""
-    },
-    "API_HASH": {
-      "description": "Get this value from https://my.telegram.org",
-      "value": ""
-    }
   },
   "addons": [
   ],

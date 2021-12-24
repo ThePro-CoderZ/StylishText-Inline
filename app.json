@@ -8,13 +8,13 @@
   ],
   "logo": "https://telegra.ph/file/64a33f1fe14c0e26c39b1.jpg",
   "success_url": "https://telegram.dog/stylishtext_Nsbot",
-  "website": "https://github.com/Ns-Bots/Stylish-Text",
-  "repository": "https://github.com/ThePro-CoderZ/StylishText-Inline",
+  "website": "https://github.com/ThePro-CoderZ/Stylishtext-Inline",
+  "repository": "https://github.com/ThePro-CoderZ/Stylishtext-Inline",
   "env": {
-    "BOT_TOKEN": {
-      "description": "Bot Token",
+      "BOT_TOKEN": {
+      "description": "Your bot token, as a string.",
       "value": ""
-    },
+    }
   },
   "addons": [
   ],

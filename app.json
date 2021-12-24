@@ -14,7 +14,7 @@
     "BOT_TOKEN": {
       "description": "Bot Token",
       "value": ""
-     },
+    },
 
   },
   "addons": [
